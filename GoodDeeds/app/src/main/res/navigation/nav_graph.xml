@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainEventFragment">
+    <fragment
+        android:id="@+id/mainEventFragment"
+        android:name="com.example.gooddeeds.MainEventFragment"
+        android:label="fragment_main_event"
+        tools:layout="@layout/fragment_main_event" >
+        <action
+            android:id="@+id/action_mainEventFragment_to_educationEventFragment"
+            app:destination="@id/educationEventFragment" />
+        <action
+            android:id="@+id/action_mainEventFragment_to_mainActivity"
+            app:destination="@id/mainActivity" />
+    </fragment>
+    <fragment
+        android:id="@+id/educationEventFragment"
+        android:name="com.example.gooddeeds.EducationEventFragment"
+        android:label="fragment_education_event"
+        tools:layout="@layout/fragment_education_event" >
+        <action
+            android:id="@+id/action_educationEventFragment_to_mainEventFragment"
+            app:destination="@id/mainEventFragment" />
+        <action
+            android:id="@+id/action_educationEventFragment_to_detailEducationEventFragment"
+            app:destination="@id/detailEducationEventFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailEducationEventFragment"
+        android:name="com.example.gooddeeds.DetailEducationEventFragment"
+        android:label="DetailEducationEventFragment" >
+        <action
+            android:id="@+id/action_detailEducationEventFragment_to_educationEventFragment"
+            app:destination="@id/educationEventFragment" />
+    </fragment>
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.gooddeeds.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+</navigation>

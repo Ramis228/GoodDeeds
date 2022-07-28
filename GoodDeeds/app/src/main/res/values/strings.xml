@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Good Deeds</string>
+    <string name="title_activity_event">EventActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="registerText">Есть аккаунт</string>
+    <string name="registerTxt">зарегистрироваться</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="_3">Единственный в своем роде трекер хороших привычек в 3 простых шага</string>
+    <string name="bookGoodDeeds">КНИГА ДОБРЫХ ДЕЛ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calendarGoodDeeds">КАЛЕНДАРЬ ДОБРЫХ ДЕЛ</string>
+    <string name="participate">Принять участие</string>
+    <string name="detail">Detail</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+    <string name="event">МЕРОПРИЯТИЯ</string>
+    <string name="goodDeedDay">ДОБРОЕ ДЕЛО ДНЯ</string>
+    <string name="religion">Религия</string>
+    <string name="family">Семья</string>
+    <string name="neigboor">Соседей</string>
+    <string name="relative">Родственников</string>
+    <string name="needy">Нуждающихся</string>
+    <string name="education">Образования</string>
+    <string name="health">Здоровья</string>
+    <string name="economy">Хозяйство</string>
+    <string name="nature">Природы</string>
+    <string name="takeSmile">ПОСТАВЬ СЕБЕ СМАЙЛ ЗА СЕГОДНЯШНИЙ ДЕНЬ</string>
+    <string name="topicEvent">Тема Мероприятия</string>
+    <string name="editProfile">изменить профиль</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="user">User</string>
+    <string name="ferifing">ferifing</string>
+    <string name="callAdmin">Связаться с администратором</string>
+    <string name="callTechDep">Связаться с техническим отделом</string>
+    <string name="aboutProgramm">О программе</string>
+    <string name="calendar">Календарь</string>
+    <string name="account">Аккаунт</string>
+</resources>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "120932158950",
+    "firebase_url": "https://goods-deeds-default-rtdb.firebaseio.com",
+    "project_id": "goods-deeds",
+    "storage_bucket": "goods-deeds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120932158950:android:c06ef5fbf15b544b4e9a27",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120932158950-hova06s4iqr1f2j615uj86r2iph6skhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXUezF7GJMAN5OIWXz4AQkkL5TfUSxZ2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120932158950-hova06s4iqr1f2j615uj86r2iph6skhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120932158950:android:74adf917721d8b2a4e9a27",
+        "android_client_info": {
+          "package_name": "com.example.fragmentlesson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120932158950-hova06s4iqr1f2j615uj86r2iph6skhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXUezF7GJMAN5OIWXz4AQkkL5TfUSxZ2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120932158950-hova06s4iqr1f2j615uj86r2iph6skhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120932158950:android:8c82f05dddde304a4e9a27",
+        "android_client_info": {
+          "package_name": "com.example.gooddeeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120932158950-hova06s4iqr1f2j615uj86r2iph6skhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXUezF7GJMAN5OIWXz4AQkkL5TfUSxZ2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120932158950-hova06s4iqr1f2j615uj86r2iph6skhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

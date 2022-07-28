@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/account"
+        android:title="@string/account"
+        android:icon="@drawable/iconprofile"/>
+    <item
+        android:id="@+id/calendar"
+        android:title="@string/calendar"
+        android:icon="@drawable/iconcalenar"
+        />
+    <item
+        android:id="@+id/program"
+        android:title="@string/aboutProgramm"
+        android:icon="@drawable/iconaboutprogram"
+        />
+    <item android:title="" />
+    <item android:title="" />
+    <item android:title="" />
+    <item android:title="" />
+    <item android:title="" />
+    <item
+        android:title="@string/callAdmin" />
+    <item android:title="@string/callTechDep"
+        android:textSize="1sp"/>
+
+</menu>
